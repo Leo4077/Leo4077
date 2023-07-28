@@ -5,7 +5,7 @@
 - Interdisciplinary learning with curiosity and enthusiasm for things of interest, in-depth study.
 - Teamwork experience, cross-border team participation in competitions, activities, work camps, exhibitions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo4077&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo4077&layout=compact&show_icons=true&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo4077&layout=compact&show_icons=true&theme=dark)
 
 [![Linkedin: yilinchentw](https://img.shields.io/badge/-yilinchentw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yilinchentw/)](https://www.linkedin.com/in/yilinchentw/)
