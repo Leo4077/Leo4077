@@ -5,7 +5,9 @@
 - Interdisciplinary learning with curiosity and enthusiasm for things of interest, in-depth study.
 - Teamwork experience, cross-border team participation in competitions, activities, work camps, exhibitions.
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Leo4077=anuraghazra&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Leo4077=anuraghazra&layout=compact)
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
