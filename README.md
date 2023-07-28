@@ -6,7 +6,7 @@
 - Teamwork experience, cross-border team participation in competitions, activities, work camps, exhibitions.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo4077&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo4077&layout=compact&show_icons=true&theme=dark)
 
 [![Linkedin: yilinchentw](https://img.shields.io/badge/-yilinchentw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yilinchentw/)](https://www.linkedin.com/in/yilinchentw/)
 [![GitHub Leo4077](https://img.shields.io/github/followers/Leo4077?label=follow&style=social)](https://github.com/Leo4077)
