@@ -10,6 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo4077&layout=compact&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 </div>
 
+<br>
+
 [![Linkedin: yilinchentw](https://img.shields.io/badge/-yilinchentw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yilinchentw/)](https://www.linkedin.com/in/yilinchentw/)
 [![GitHub Leo4077](https://img.shields.io/github/followers/Leo4077?label=follow&style=social)](https://github.com/Leo4077)
 
