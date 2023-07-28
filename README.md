@@ -5,6 +5,8 @@
 - Interdisciplinary learning with curiosity and enthusiasm for things of interest, in-depth study.
 - Teamwork experience, cross-border team participation in competitions, activities, work camps, exhibitions.
 
+<br>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Leo4077&layout=compact&show_icons=true&theme=dark&hide_progress=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo4077&layout=compact&show_icons=true&theme=dark" height="150" alt="languages graph"  />
