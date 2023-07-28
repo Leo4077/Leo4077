@@ -2,6 +2,8 @@
 
 ###  About Me
 - Full-time freelance designer, also venturing into the field of web frontend development
+- Interdisciplinary learning with curiosity and enthusiasm for things of interest, in-depth study.
+- Teamwork experience, cross-border team participation in competitions, activities, work camps, exhibitions.
 
 
 [![Linkedin: yilinchentw](https://img.shields.io/badge/-yilinchentw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yilinchentw/)](https://www.linkedin.com/in/yilinchentw/)
