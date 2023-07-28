@@ -7,8 +7,6 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Leo4077=anuraghazra&layout=compact)
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [![Linkedin: yilinchentw](https://img.shields.io/badge/-yilinchentw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yilinchentw/)](https://www.linkedin.com/in/yilinchentw/)
